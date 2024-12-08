@@ -42,7 +42,7 @@ const App: React.FC = () => {
                                     <h3>Electricity Sales Overtime</h3>
                                 </div>
                                 <div className="imageContainer">
-                                    <img src="/dist/pic1.jpg" alt="imageOne" style={{ width: 150, height: 150, objectFit: "contain" }} />
+                                    <img src="/public/pic1.jpg" alt="imageOne" style={{ width: 150, height: 150, objectFit: "contain" }} />
                                 </div>
                             </div>
                             <Divider></Divider>
@@ -65,7 +65,7 @@ const App: React.FC = () => {
                                     <h3>Details of Sales Data</h3>
                                 </div>
                                 <div className="imageContainer">
-                                    <img src="/dist/pic2.jpg" alt="imageTwo" style={{ width: 300, height: 150, objectFit: "contain" }} />
+                                    <img src="/public/pic2.jpg" alt="imageTwo" style={{ width: 300, height: 150, objectFit: "contain" }} />
                                 </div>
                             </div>
                             <Divider></Divider>
